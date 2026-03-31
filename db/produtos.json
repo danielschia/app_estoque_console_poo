@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nome": "Maçã",
+    "descricao": "maçã fuji",
+    "preco": 2.5,
+    "quantidade": 20
+  },
+  {
+    "id": 2,
+    "nome": "Banana",
+    "descricao": "banana prata",
+    "preco": 1.8,
+    "quantidade": 30
+  },
+  {
+    "id": 3,
+    "nome": "Laranja",
+    "descricao": "laranja pera",
+    "preco": 3.0,
+    "quantidade": 15
+  },
+  {
+    "id": 1774985121,
+    "nome": "Limão",
+    "descricao": "Limão Taiti",
+    "preco": 0.5,
+    "quantidade": 50
+  },
+  {
+    "id": 1774985218,
+    "nome": "Pera",
+    "descricao": "Pera portuguesa",
+    "preco": 5.0,
+    "quantidade": 15
+  },
+  {
+    "id": 1774987786,
+    "nome": "teste",
+    "descricao": "test",
+    "preco": 2.0,
+    "quantidade": 1
+  }
+]
